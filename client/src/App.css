@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+@media (max-width: 768px) {
+    body{
+        padding: 10px;
+    }
+}
+
+/*primary-color: #539092
+secondary-color: #AEE8E6
+secondary-alternative: #8BCFCC
+tertiary-color: #F5FAC8
+background: linear-gradient(45.32deg, #41287B 14.7%, #462779 22.39%, #572775 32.46%, #72266E 43.79%, #982565 56.17%, #C82459 69.12%, #E72452 76.63%);
+
+*/

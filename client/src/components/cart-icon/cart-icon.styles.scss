@@ -1,0 +1,32 @@
+.cart-icon {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin-right: 20px;
+
+  .shopping-icon {
+    width: 30px;
+    height: 30px;
+  }
+
+  .item-count {
+    position: absolute;
+    bottom: 16px;
+    right: 0;
+    background-color: black;
+    border-radius: 8px;
+    width: 16px;
+    height: 16px;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
