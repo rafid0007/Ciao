@@ -1,6 +1,6 @@
-# Clothing-hut
+# Reevo
 
-## Online Shopping site with payment System
+## Online Fashion Shop with integrated payment System
 
 ### Link: <https://ciao1.herokuapp.com/>
 
