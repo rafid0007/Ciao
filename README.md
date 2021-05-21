@@ -1,13 +1,16 @@
-# Reevo
+# Ciao
 
 ## Online Fashion Shop with integrated payment System
 
 ### Link: <https://ciao1.herokuapp.com/>
 
 ### Technology Stack:
-  * React (Next.js)
-  * Context Api
-  * Scss
-  * Material-Ui
+  * React.js
+  * Node.js
+  * FireBase (Authentication, Firestore)
+  * React-router
+  * Redux
+  * Redux-saga
+  * Redux-persist
+  * Styled Components
   * Stripe
-  * Django-rest-framkework
