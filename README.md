@@ -2,9 +2,9 @@
 
 ## Online Shopping site with payment System
 
-### Link: <https://clothing-hut.herokuapp.com/>
+### Link: <https://ciao1.herokuapp.com/>
 
-### Made With:
+### Technology Stack:
   * React.js
   * Node.js
   * FireBase (Authentication, Firestore)
