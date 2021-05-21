@@ -38,7 +38,7 @@ const Checkout = ({cartItems, priceTotal}) => (
             TOTAL: ${priceTotal}
         </div>
         <div className="test-warning">
-            *Please use the test credit card for payments*
+            * Following test credit card can be used for testing payments*
             <br/>
             5555 5555 5555 4444 - EXP: 01/23 - CVC:123
         </div>
@@ -46,6 +46,7 @@ const Checkout = ({cartItems, priceTotal}) => (
 
     </div>
 );
+
 
 const mapStateToProps = createStructuredSelector({
     cartItems: selectCartItems,
