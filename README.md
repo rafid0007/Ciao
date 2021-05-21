@@ -11,6 +11,5 @@
   * React-router
   * Redux
   * Redux-saga
-  * Redux-persist
   * Styled Components
   * Stripe
